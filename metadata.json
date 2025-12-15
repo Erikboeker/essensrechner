@@ -1,0 +1,7 @@
+{
+  "name": "Nährwert & BE/FPE-Rechner",
+  "description": "Eine React-Anwendung, die Bilder von Mahlzeiten analysiert, um Nährwertinformationen, Broteinheiten (BE) und Fett-Protein-Einheiten (FPE) zu berechnen. Sie bietet auch intelligente Vorschläge und speichert einen Mahlzeiten-Verlauf.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
